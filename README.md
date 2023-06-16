@@ -1,3 +1,38 @@
+# Roomies
+
+Connect and Collaborate Seamlessly in a Unified Group Chat Platform
+
+Roomies is an innovative web application designed to bring people together in a single platform where they can connect, chat, and collaborate effortlessly. Built using React.JS, Sockets, and Rest APIs, Roomies empowers users to engage in real-time conversations, share ideas, and build a sense of community.
+
+## Features
+
+- Seamless real-time group chat experience.
+- Effortless image sharing to enhance conversations.
+- Customization options for themes, backgrounds, and notifications.
+- User-friendly interface and intuitive design.
+- Reliable and secure chat experience powered by Chat Engine backend.
+
+## Getting Started
+
+To get started with Roomies:
+
+1. Clone the repository.
+2. Install the required dependencies.
+3. Configure and set up the backend Chat Engine.
+4. Launch the application and start connecting with your group.
+
+## Contributing
+
+Contributions to Roomies are welcome! If you have any ideas for improvement or would like to report an issue, please open an issue or submit a pull request.
+
+## License
+
+Roomies is an open-source project licensed under the [MIT License](LICENSE).
+
+Join Roomies today and experience the power of unified group chat, seamless image sharing, and effortless collaboration. Connect, communicate, and build strong relationships in a vibrant and inclusive community. Welcome to Roomies!
+
+
+#DETAILED DESCRIPTION
 Introducing Roomies: Connect and Collaborate Seamlessly in a Unified Group Chat Platform
 
 Roomies is an innovative web application designed to bring people together in a single platform where they can connect, chat, and collaborate effortlessly. Built using React.JS, Sockets, and Rest APIs, Roomies empowers users to engage in real-time conversations, share ideas, and build a sense of community.
